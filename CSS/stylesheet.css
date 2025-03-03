@@ -1,6 +1,8 @@
 body {
-  background: #f5f5fa;
+  background-color: #f5f5fa;
   color: #1f1f29;
+  text-align: center;
+  font-family: Arial, sans-serif;
 }
 
 .container {
